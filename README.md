@@ -1,5 +1,9 @@
 # DATAGRAMS-ARSW-LAB03
 
+## Realizado por:
+- David Alejandro Patacon Henao
+- Daniel Felipe Hueso Rueda
+
 ## Descripcion
 Este proyecto implementa un servidor y un cliente UDP que intercambian la hora actual. El cliente solicita la hora cada 5 segundos y el servidor responde con la fecha y hora del sistema. La comunicacion es sin conexion y se basa en datagramas UDP.
 
